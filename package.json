@@ -1,10 +1,11 @@
 {
   "name": "fake-social-api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Fake API for fake Social Media",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -16,7 +17,8 @@
     "url": "https://github.com/LoreMaru/fake-social-api/issues"
   },
   "homepage": "https://github.com/LoreMaru/fake-social-api#readme",
-  "dependencies": {
-    "json-server": "^0.17.0"
+  "devDependencies": {
+    "json-server": "^0.17.0",
+    "json-server-auth": "^2.1.0"
   }
 }

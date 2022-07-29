@@ -1,0 +1,89 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Gendo Ikari",
+      "avatar": "https://www.personality-database.com/profile_images/251949.png",
+      "password": "nerv"
+    },
+    {
+      "id": 2,
+      "username": "Shinji Ikari",
+      "avatar": "https://www.personality-database.com/profile_images/4171.png",
+      "password": "nonvoglio"
+    },
+    {
+      "id": 3,
+      "username": "Rei Ayanami",
+      "avatar": "https://static1.personality-database.com/profile_images/b886e08482f94195a1b5c54d6c0011fd.png",
+      "password": "password"
+    },
+    {
+      "id": 4,
+      "username": "Asuka Soryu Langley",
+      "avatar": "https://static1.personality-database.com/profile_images/91860167af8b45bc97e2b39614768f37.png",
+      "password": "stupido"
+    }
+  ],
+
+  "messages": [
+    {
+      "id": 1,
+      "text": "Oggi è proprio una bella giornata!",
+      "sender": "Shinji Ikari",
+      "date": "",
+      "like": 0,
+      "dislike": 3,
+      "comments": [
+        {
+          "text": "Sali sull'EVA!",
+          "sender": "Gendo Ikari",
+          "date": "",
+          "like": 1,
+          "dislike": 0
+        },
+        {
+          "text": "Lei ha sempre raione!",
+          "sender": "Rei Ayanami",
+          "date": "",
+          "like": 0,
+          "dislike": 1
+        },
+        {
+          "text": "La solita lecchina!",
+          "sender": "Asuka Soryu Langley",
+          "date": "",
+          "like": 0,
+          "dislike": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Era meglio se ci andavo io ad annaffiare le piante!",
+      "sender": "Gendo Ikari",
+      "date": "",
+      "like": 0,
+      "dislike": 0,
+      "comments": []
+    },
+    {
+      "id": 3,
+      "text": "...",
+      "sender": "Rei Ayanami",
+      "date": "",
+      "like": 0,
+      "dislike": 0,
+      "comments": []
+    },
+    {
+      "id": 4,
+      "text": "Stupi-Shinji!",
+      "sender": "Asuka Soryu Langley",
+      "date": "",
+      "like": 0,
+      "dislike": 0,
+      "comments": []
+    }
+  ]
+}

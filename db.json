@@ -33,30 +33,7 @@
       "sender": "Shinji Ikari",
       "date": "",
       "like": 0,
-      "dislike": 3,
-      "comments": [
-        {
-          "text": "Sali sull'EVA!",
-          "sender": "Gendo Ikari",
-          "date": "",
-          "like": 1,
-          "dislike": 0
-        },
-        {
-          "text": "Lei ha sempre raione!",
-          "sender": "Rei Ayanami",
-          "date": "",
-          "like": 0,
-          "dislike": 1
-        },
-        {
-          "text": "La solita lecchina!",
-          "sender": "Asuka Soryu Langley",
-          "date": "",
-          "like": 0,
-          "dislike": 0
-        }
-      ]
+      "dislike": 3
     },
     {
       "id": 2,
@@ -64,8 +41,7 @@
       "sender": "Gendo Ikari",
       "date": "",
       "like": 0,
-      "dislike": 0,
-      "comments": []
+      "dislike": 0
     },
     {
       "id": 3,
@@ -73,8 +49,7 @@
       "sender": "Rei Ayanami",
       "date": "",
       "like": 0,
-      "dislike": 0,
-      "comments": []
+      "dislike": 0
     },
     {
       "id": 4,
@@ -82,8 +57,37 @@
       "sender": "Asuka Soryu Langley",
       "date": "",
       "like": 0,
+      "dislike": 0
+    }
+  ],
+
+  "comments": [
+    {
+      "text": "Sali sull'EVA!",
+      "sender": "Gendo Ikari",
+      "date": "",
+      "like": 1,
       "dislike": 0,
-      "comments": []
+      "messageId": 1,
+      "id": 1
+    },
+    {
+      "text": "Lei ha sempre raione!",
+      "sender": "Rei Ayanami",
+      "date": "",
+      "like": 0,
+      "dislike": 1,
+      "messageId": 1,
+      "id": 2
+    },
+    {
+      "text": "La solita lecchina!",
+      "sender": "Asuka Soryu Langley",
+      "date": "",
+      "like": 0,
+      "dislike": 0,
+      "messageId": 1,
+      "id": 3
     }
   ]
 }
